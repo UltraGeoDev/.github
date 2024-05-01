@@ -29,4 +29,3 @@ Main directions in development:
 > Speech2Note bot allows you to create notes from an audio file using neural networks
 >
 > lang: python
----
