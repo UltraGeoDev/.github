@@ -29,3 +29,9 @@ Main directions in development:
 > Speech2Note bot allows you to create notes from an audio file using neural networks
 >
 > lang: python
+
+> [**Diffusion-Model**](https://github.com/UltraGeoDev/diffusion-model)
+>
+> Implementation of a diffusion model for generating simple images
+>
+> lang: python
