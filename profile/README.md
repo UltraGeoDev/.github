@@ -15,7 +15,7 @@ Main directions in development:
 - [💌 email](mailto:dev@ultrageopro.ru)
 - [🛩️ telegram](https://t.me/UltraGeoDev)
 - [📘 articles](https://habr.com/ru/users/Ultrageopro1966/)
-- [😾 other projects](https://github.com/Ultrageopro1966)
+- [😾 other projects](https://github.com/Ultrageopro1966?tab=repositories)
 
 ## 📘 repositories
 > [**Telegram-Backups**](https://github.com/UltraGeoDev/Telegram-Backups)
